@@ -10,8 +10,10 @@ module.exports = {
 		['link', { rel: 'apple-touch-icon', href: `/icons/apple-touch-icon-152x152.png` }],
 	],
 	themeConfig: {
-		sidebar: auto
-
+		sidebar: 'auto',
+		nav : [
+			{ text: 'Topics', link: '/topics/' }
+                      ]
 	}
 }
 
