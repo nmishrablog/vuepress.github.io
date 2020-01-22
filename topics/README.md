@@ -1,4 +1,4 @@
 ---
 sidebar: false
 ---
-### (Charter Cities)[/charter-cities/] 
+Charter Cities
