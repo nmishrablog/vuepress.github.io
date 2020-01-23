@@ -1,6 +1,5 @@
 ---
-home: true
-sidebar: auto
+sidebar: false
 ---
 ## Further Reading
 
