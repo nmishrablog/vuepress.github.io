@@ -7,20 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:build": "vuepress build"
 
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tomcam/vuepress.github.io.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tomcam/vuepress.github.io/issues"
-  },
-  "homepage": "https://github.com/tomcam/vuepress.github.io#readme",
-  "dependencies": {
-    "vuepress": "^0.12.0"
- }
+  }
 
 }
